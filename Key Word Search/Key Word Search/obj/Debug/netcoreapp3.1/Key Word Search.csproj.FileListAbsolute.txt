@@ -15,3 +15,20 @@ C:\Users\elite\source\repos\Key Word Search\Key Word Search\obj\Debug\netcoreapp
 C:\Users\elite\source\repos\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\Key Word Search.AssemblyInfo.cs
 C:\Users\elite\source\repos\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\Key Word Search.dll
 C:\Users\elite\source\repos\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\Key Word Search.pdb
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\bin\Debug\netcoreapp3.1\Key Word Search.exe
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\bin\Debug\netcoreapp3.1\Key Word Search.deps.json
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\bin\Debug\netcoreapp3.1\Key Word Search.runtimeconfig.json
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\bin\Debug\netcoreapp3.1\Key Word Search.runtimeconfig.dev.json
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\bin\Debug\netcoreapp3.1\Key Word Search.dll
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\bin\Debug\netcoreapp3.1\Key Word Search.pdb
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\Key Word Search.csprojAssemblyReference.cache
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\Key Word Search_MarkupCompile.cache
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\Key Word Search_MarkupCompile.lref
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\Key Word Search.g.resources
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\Key Word Search.AssemblyInfoInputs.cache
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\Key Word Search.AssemblyInfo.cs
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\Key Word Search.dll
+C:\Users\elite\OneDrive\Documents\GitHub\Keyword-Scanner\Key Word Search\Key Word Search\obj\Debug\netcoreapp3.1\Key Word Search.pdb

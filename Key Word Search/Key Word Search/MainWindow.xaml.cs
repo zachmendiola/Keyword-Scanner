@@ -28,6 +28,7 @@ namespace Key_Word_Search
         Dictionary<string, int> words = new Dictionary<string, int>();
         string temp = "";
         string temp1 = "";
+        // Initialization of a Hashset that contains keywords to be searching for in a job posting.
         HashSet<string> keywords = new HashSet<string>()
         {
             "software",
@@ -110,10 +111,12 @@ namespace Key_Word_Search
 
             for (int i = 0; i < read.Length; i++)
             {
+                // Incrementation of the value for the key if it already exists.
                 if (words.TryGetValue(read[i], out int value))
                 {
                     words[read[i]] += 1;
                 }
+                // Else statement to add the key if it does not exist already in the dictionary.
                 else
                 {
                     read[i] = SanitizeString(read[i]);
@@ -127,6 +130,7 @@ namespace Key_Word_Search
         {
 
         }
+        // Method to take special characters out of a word for the search. Leaves in '$' and '+'.
         private string SanitizeString(string word)
         {
 
