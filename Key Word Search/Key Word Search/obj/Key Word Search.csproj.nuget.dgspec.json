@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elite\\source\\repos\\Key Word Search\\Key Word Search\\Key Word Search.csproj": {}
+    "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\Keyword-Scanner\\Key Word Search\\Key Word Search\\Key Word Search.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elite\\source\\repos\\Key Word Search\\Key Word Search\\Key Word Search.csproj": {
+    "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\Keyword-Scanner\\Key Word Search\\Key Word Search\\Key Word Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elite\\source\\repos\\Key Word Search\\Key Word Search\\Key Word Search.csproj",
+        "projectUniqueName": "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\Keyword-Scanner\\Key Word Search\\Key Word Search\\Key Word Search.csproj",
         "projectName": "Key Word Search",
-        "projectPath": "C:\\Users\\elite\\source\\repos\\Key Word Search\\Key Word Search\\Key Word Search.csproj",
+        "projectPath": "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\Keyword-Scanner\\Key Word Search\\Key Word Search\\Key Word Search.csproj",
         "packagesPath": "C:\\Users\\elite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elite\\source\\repos\\Key Word Search\\Key Word Search\\obj\\",
+        "outputPath": "C:\\Users\\elite\\OneDrive\\Documents\\GitHub\\Keyword-Scanner\\Key Word Search\\Key Word Search\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
