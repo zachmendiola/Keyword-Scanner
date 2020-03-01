@@ -17,8 +17,8 @@
         <Button x:Name="Go" Content="Go!" HorizontalAlignment="Left" Height="56" Margin="169,0,0,0" VerticalAlignment="Center" Width="120" Click="Button_Click"/>
         <Button x:Name="Load" Content="Load" HorizontalAlignment="Left" Height="56" Margin="310,0,0,0" VerticalAlignment="Center" Width="120" Click="Button_Click_1"/>
         <TextBox x:Name="Input" HorizontalAlignment="Center" Height="65" Margin="0,121,0,0" Text="Enter Text Here!" TextWrapping="Wrap" VerticalAlignment="Top" Width="520" TextChanged="TextBox_TextChanged"/>
-        <ScrollBar HorizontalAlignment="Left" Height="183" Margin="476,271,0,0" VerticalAlignment="Top" Width="9"/>
-        <ScrollBar HorizontalAlignment="Left" Height="65" Margin="536,121,0,0" VerticalAlignment="Top" Width="8"/>
+        <ScrollBar Height="183" Margin="476,271,94,0" VerticalAlignment="Top" Width="9"/>
+        <ScrollBar Height="65" Margin="536,121,34,0" VerticalAlignment="Top" Width="8"/>
         <TextBlock HorizontalAlignment="Center" Height="114" Text="Welcome to Keyword Scanner!&#x0d;Copy and paste text from a job posting in the first box&#x0d;Click Load, then click Go!&#x0d;The bottom box will list how many times keywords are mentioned in the post." TextWrapping="Wrap" VerticalAlignment="Top" Width="520" TextAlignment="Center" Foreground="White" FontWeight="Bold"/>
 
     </Grid>
