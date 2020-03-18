@@ -79,7 +79,12 @@ namespace Key_Word_Search
             "perl",
             "node.js",
             "reasoning",
-            "project"
+            "project",
+            "json",
+            "growth mindset",
+            "values"
+
+
         };
         private void Button_Click(object sender, RoutedEventArgs e)
         {
